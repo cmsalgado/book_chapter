@@ -1,5 +1,7 @@
 # Machine learning for patient stratification and classification
 
+This workshop was developed for the UP-MIT Critical Data-Stanford Big Data for Health Workshops and Conference.
+
 The workshop will introduce the audience to machine learning techniques. Participants will explore the differences between supervised and unsupervised learning and practice implementing them using Python and the SciPy ecosystem. It will focus on patient stratification and classification, for decision support in the intensive care unit.
 
 # Getting Started
@@ -27,7 +29,7 @@ The majority of this workshop will be taught through the use of a Jupyter notebo
 
 > git clone https://github.com/cmsalgado/workshop-bd4h/blob/master/ML_manilla.ipynb
 
-A csv file containing the data used for this workshop can be found [here](https://github.com/cmsalgado/workshop-bd4h/blob/master/ML_manilla.ipynb).
+A csv file containing the data used for this workshop can be found [here](https://www.dropbox.com/s/3l20njo1sb5ui4g/mimic3_mortality.csv?dl=0).
 
 # Data
 
