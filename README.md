@@ -29,7 +29,7 @@ The majority of this workshop will be taught through the use of a Jupyter notebo
 
 > git clone https://github.com/cmsalgado/workshop-bd4h/blob/master/ML_manilla.ipynb
 
-A csv file containing the data used for this workshop can be found [here](https://www.dropbox.com/s/3l20njo1sb5ui4g/mimic3_mortality.csv?dl=0).
+A csv file containing the data used for this workshop can be found [here](https://www.dropbox.com/s/vhhpru1njkfrkj8/mimic3_mortality.csv?dl=0).
 
 # Data
 
