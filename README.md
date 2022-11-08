@@ -31,6 +31,7 @@ The majority of this workshop will be taught through the use of a Jupyter notebo
 
 A csv file containing the data used for this workshop can be found [here](https://www.dropbox.com/s/vhhpru1njkfrkj8/mimic3_mortality.csv?dl=0).
 
+
 # Data
 
 The data were extracted from the MIMIC-III Clinical Database, which is a large, publicly-available database comprising de-identified electronic health records of approximately 60,000 ICU admissions. Patients stayed in the intensive care unit (ICU) of the Beth Israel Deaconess Medical Center between 2001 and 2012. MIMIC-III database is described in:
